@@ -1,0 +1,6 @@
+Test repo for Python in the Enterprise classes
+
+this is my project for Multicore Programming class, use it only on suitable machines with $ROOTSYS and Python set up.
+to run:
+python ../ITScanAppMgr.py -p ../data/ITscan_21Feb_2013_150V -q
+
